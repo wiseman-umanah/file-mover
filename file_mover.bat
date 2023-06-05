@@ -1,0 +1,1 @@
+@py.exe "C:\Users\Wiseman\Desktop\folder Mover\file_mover.py"%*

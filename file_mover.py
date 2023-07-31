@@ -1,5 +1,5 @@
 #created a shebang for running code in command line
-#! python3
+#!python3
 
 import os, shutil, time #importing useful modules
 moveTo = os.path.expanduser("~") #The path to find where to move your file to
